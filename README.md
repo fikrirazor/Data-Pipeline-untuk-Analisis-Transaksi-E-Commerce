@@ -114,7 +114,7 @@ jupyter notebook notebooks/olist_analysis.ipynb
 Proyek ini menggunakan lisensi **MIT**. Lihat file [LICENSE](LICENSE) untuk informasi lebih lanjut.
 
 ## 📬 Kontak 
-- 💻 GitHub: [github.com/username](https://github.com/fikrirazor)  
+- 💻 GitHub: [github.com/fikrirazor](https://github.com/fikrirazor)  
 
 ## 📚 Referensi
 - Google. (2024). *e-Conomy SEA 2024: Perekonomian digital Indonesia akan mencapai GMV 90 miliar pada tahun 2024*.  
