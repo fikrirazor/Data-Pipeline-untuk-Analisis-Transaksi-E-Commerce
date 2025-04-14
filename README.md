@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-[comment]: <>(![Status](https://img.shields.io/badge/Status-Completed-green))
+<!--- ![Status](https://img.shields.io/badge/Status-Completed-green) -->
 ![Status](https://img.shields.io/badge/Status-In_Progress-yellow)
 ## 📌 Overview
 Proyek ini mengembangkan *end-to-end data pipeline* untuk menganalisis transaksi e-commerce menggunakan dataset **Olist**, platform e-commerce dari Brasil. Pipeline mencakup proses ETL (Extract, Transform, Load) untuk menghasilkan wawasan bisnis seperti tren penjualan bulanan dan kategori produk terlaris.
