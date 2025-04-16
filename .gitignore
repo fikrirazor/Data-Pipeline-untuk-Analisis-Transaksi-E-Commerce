@@ -1,0 +1,27 @@
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore data and cache folders
+data/
+visualizations/
+*.db
+*.sqlite3
+
+# Ignore kagglehub cache
+~/.cache/kagglehub/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore virtual environment
+venv/
+.env/
+
+# Ignore logs
+*.log
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
